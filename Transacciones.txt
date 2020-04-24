@@ -1,0 +1,16 @@
+4/4/2020		19:39		Se registró un cliente 
+4/4/2020		19:40		Se eliminó un cliente
+4/4/2020		19:40		Se modificó un cliente
+4/4/2020		19:41		Se realizó la acción deshacer
+4/4/2020		19:41		Se realizó la acción deshacer
+4/4/2020		19:41		Se realizó la acción deshacer
+4/4/2020		19:42		Se modificó un cliente
+4/4/2020		19:42		Se realizó la acción rehacer
+4/4/2020		19:42		Se realizó la acción deshacer
+4/4/2020		19:42		Se realizó la acción deshacer
+4/4/2020		19:42		Se realizó la acción rehacer
+4/4/2020		20:3		Se registró un cliente 
+4/4/2020		20:9		Se realizó la acción deshacer
+4/4/2020		20:9		Se eliminó un cliente
+4/4/2020		20:9		Se realizó la acción deshacer
+4/4/2020		20:9		Se realizó la acción deshacer
